@@ -1,25 +1,5 @@
 {
-  "trips": [
-    {
-      "id": "1771090791924",
-      "startDate": "2026-02-14T17:39:51.924Z",
-      "endDate": "2026-02-14T20:19:47.991Z",
-      "startLocation": {
-        "latitude": 32.815477235902286,
-        "longitude": -96.86804485415554,
-        "address": "John W Carpenter Freeway, Dallas, Dallas County, Texas, 75247, United States"
-      },
-      "endLocation": {
-        "latitude": 32.902349583952635,
-        "longitude": -97.12701279343628,
-        "address": "Pointe Court, Colleyville, Tarrant County, Texas, 76034, United States"
-      },
-      "distance": 4.045442143235551,
-      "purpose": "Client Meeting",
-      "notes": "",
-      "isActive": false
-    }
-  ],
+  "trips": [],
   "activeTrip": null,
-  "lastUpdated": "2026-02-14T20:19:47.991Z"
+  "lastUpdated": "2026-02-14T20:20:15.770Z"
 }
