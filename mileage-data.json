@@ -1,5 +1,19 @@
 {
   "trips": [],
-  "activeTrip": null,
-  "lastUpdated": "2026-02-14T05:16:26.092Z"
+  "activeTrip": {
+    "id": "1771046648488",
+    "startDate": "2026-02-14T05:24:08.488Z",
+    "endDate": null,
+    "startLocation": {
+      "latitude": 32.902348554808235,
+      "longitude": -97.12700998352177,
+      "address": "Pointe Court, Colleyville, Tarrant County, Texas, 76034, United States"
+    },
+    "endLocation": null,
+    "distance": 0,
+    "purpose": "Trst",
+    "notes": "",
+    "isActive": true
+  },
+  "lastUpdated": "2026-02-14T05:24:08.489Z"
 }
