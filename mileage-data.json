@@ -1,0 +1,19 @@
+{
+  "trips": [],
+  "activeTrip": {
+    "id": "1771046130355",
+    "startDate": "2026-02-14T05:15:30.355Z",
+    "endDate": null,
+    "startLocation": {
+      "latitude": 32.8808913,
+      "longitude": -97.1557789,
+      "address": "Glade Road, Colleyville, Tarrant County, Texas, 76034, United States"
+    },
+    "endLocation": null,
+    "distance": 0,
+    "purpose": "Test ignore",
+    "notes": "",
+    "isActive": true
+  },
+  "lastUpdated": "2026-02-14T05:15:30.357Z"
+}
