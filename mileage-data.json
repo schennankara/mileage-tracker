@@ -1,5 +1,19 @@
 {
   "trips": [],
-  "activeTrip": null,
-  "lastUpdated": "2026-02-14T20:20:15.770Z"
+  "activeTrip": {
+    "id": "1771174001608",
+    "startDate": "2026-02-15T16:46:41.608Z",
+    "endDate": null,
+    "startLocation": {
+      "latitude": 32.95615905841563,
+      "longitude": -97.13260916182993,
+      "address": "Jack D Johnson Elementary School, 1301, North Carroll Avenue, Southlake, Tarrant County, Texas, 76092, United States"
+    },
+    "endLocation": null,
+    "distance": 0,
+    "purpose": "Client Meeting",
+    "notes": "",
+    "isActive": true
+  },
+  "lastUpdated": "2026-02-15T16:46:41.609Z"
 }
