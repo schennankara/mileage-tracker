@@ -20,6 +20,20 @@
       "isActive": false
     }
   ],
-  "activeTrip": null,
-  "lastUpdated": "2026-02-15T16:47:04.297Z"
+  "activeTrip": {
+    "id": "1772801781162",
+    "startDate": "2026-03-06T12:56:21.162Z",
+    "endDate": null,
+    "startLocation": {
+      "latitude": 32.888450571892854,
+      "longitude": -97.03767045625408,
+      "address": "Terminal E, Grapevine, Tarrant County, Texas, 76261, United States"
+    },
+    "endLocation": null,
+    "distance": 0,
+    "purpose": "Site Visit",
+    "notes": "",
+    "isActive": true
+  },
+  "lastUpdated": "2026-03-06T12:56:21.163Z"
 }
