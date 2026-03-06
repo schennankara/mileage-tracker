@@ -1,6 +1,25 @@
 {
   "trips": [
     {
+      "id": "1772801781162",
+      "startDate": "2026-03-06T12:56:21.162Z",
+      "endDate": "2026-03-06T12:56:43.829Z",
+      "startLocation": {
+        "latitude": 32.888450571892854,
+        "longitude": -97.03767045625408,
+        "address": "Terminal E, Grapevine, Tarrant County, Texas, 76261, United States"
+      },
+      "endLocation": {
+        "latitude": 32.888432518088386,
+        "longitude": -97.03763587721022,
+        "address": "Terminal E, Grapevine, Tarrant County, Texas, 76261, United States"
+      },
+      "distance": 0,
+      "purpose": "Site Visit",
+      "notes": "Blabla",
+      "isActive": false
+    },
+    {
       "id": "1771174001608",
       "startDate": "2026-02-15T16:46:41.608Z",
       "endDate": "2026-02-15T16:47:04.296Z",
@@ -20,20 +39,6 @@
       "isActive": false
     }
   ],
-  "activeTrip": {
-    "id": "1772801781162",
-    "startDate": "2026-03-06T12:56:21.162Z",
-    "endDate": null,
-    "startLocation": {
-      "latitude": 32.888450571892854,
-      "longitude": -97.03767045625408,
-      "address": "Terminal E, Grapevine, Tarrant County, Texas, 76261, United States"
-    },
-    "endLocation": null,
-    "distance": 0,
-    "purpose": "Site Visit",
-    "notes": "",
-    "isActive": true
-  },
-  "lastUpdated": "2026-03-06T12:56:21.163Z"
+  "activeTrip": null,
+  "lastUpdated": "2026-03-06T12:56:43.829Z"
 }
