@@ -1,6 +1,25 @@
 {
   "trips": [
     {
+      "id": "1773230352605",
+      "startDate": "2026-03-11T11:59:12.605Z",
+      "endDate": "2026-03-18T12:20:52.268Z",
+      "startLocation": {
+        "latitude": 32.86842716592861,
+        "longitude": -97.10123105875064,
+        "address": "TX 121, Euless, Tarrant County, Texas, 76039, United States"
+      },
+      "endLocation": {
+        "latitude": 32.92523775315485,
+        "longitude": -97.108112121436,
+        "address": "2637, Ira E Woods Avenue, Grapevine, Tarrant County, Texas, 76051, United States"
+      },
+      "distance": 2.9457300051988957,
+      "purpose": "Site Visit",
+      "notes": "",
+      "isActive": false
+    },
+    {
       "id": "1772801781162",
       "startDate": "2026-03-06T12:56:21.162Z",
       "endDate": "2026-03-06T12:56:43.829Z",
@@ -39,20 +58,6 @@
       "isActive": false
     }
   ],
-  "activeTrip": {
-    "id": "1773230352605",
-    "startDate": "2026-03-11T11:59:12.605Z",
-    "endDate": null,
-    "startLocation": {
-      "latitude": 32.86842716592861,
-      "longitude": -97.10123105875064,
-      "address": "TX 121, Euless, Tarrant County, Texas, 76039, United States"
-    },
-    "endLocation": null,
-    "distance": 2.9457300051988957,
-    "purpose": "Site Visit",
-    "notes": "",
-    "isActive": true
-  },
-  "lastUpdated": "2026-03-11T12:03:47.429Z"
+  "activeTrip": null,
+  "lastUpdated": "2026-03-18T12:20:52.269Z"
 }
