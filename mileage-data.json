@@ -58,6 +58,20 @@
       "isActive": false
     }
   ],
-  "activeTrip": null,
-  "lastUpdated": "2026-03-18T12:20:52.269Z"
+  "activeTrip": {
+    "id": "1773836468107",
+    "startDate": "2026-03-18T12:21:08.107Z",
+    "endDate": null,
+    "startLocation": {
+      "latitude": 32.92463473127255,
+      "longitude": -97.10792252791764,
+      "address": "Ponderosa Trail, Trailwood Mobile Home Estates, Grapevine, Tarrant County, Texas, 76051, United States"
+    },
+    "endLocation": null,
+    "distance": 0,
+    "purpose": "Client Meeting",
+    "notes": "",
+    "isActive": true
+  },
+  "lastUpdated": "2026-03-18T12:21:08.108Z"
 }
